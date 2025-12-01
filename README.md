@@ -12,7 +12,6 @@ A machine learning project to predict the presence of heart disease in patients 
 - [Results](#results)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 
 ## 🎯 Project Overview
 
